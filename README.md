@@ -9,8 +9,6 @@
 
  🛰️ Internet of Things (IoT) & Firmware Development
 
-![IoT Banner]
-
 > I build IoT systems that connect sensors, process data, and send actionable insights to the cloud or dashboards in real-time.
 
 🔧 My Expertise Includes:
