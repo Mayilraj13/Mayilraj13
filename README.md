@@ -11,13 +11,23 @@
 
 > I build IoT systems that connect sensors, process data, and send actionable insights to the cloud or dashboards in real-time.
 
-🔧 My Expertise Includes:
-- Embedded C & MicroPython programming
-- Interfacing sensors (DHT11, soil moisture, IR, PIR, etc.)
-- Actuator control via GPIO (relays, motors, buzzers)
-- Real-time communication using MQTT, HTTP, and REST APIs
-- Firmware development for ESP32 and Arduino platforms
-- Low-power optimization and secure IoT messaging
+
+## 🛠️ Skills & Tools
+
+**Languages:**  
+`C/C++` `Python`  `HTML` `CSS` `JavaScript`
+
+**IoT Platforms & Tools:**  
+`Arduino` `Raspberry Pi` `ESP32` `ThingSpeak` `MQTT` 'HTTP'
+
+**AI & Computer Vision:**  
+`OpenCV` `YOLOv8` 
+
+**Databases & Visualization:**  
+`SQLite`
+
+**Web Development:**  
+`Django` `Bootstrap` `REST APIs`
 
 
 🧰 Tools & Technologies
@@ -34,11 +44,12 @@
 📂 Highlight Projects
 
 
-💡 Basic LED Control Program  
-Beginner project for GPIO output testing using Arduino to control LEDs with button or timer inputs.
+💡Air Quality Monitoring System
+  IoT-based project for real-time air quality tracking using ESP32 and MQ-135 sensor. The system measures pollutant levels (CO₂, NH₃, Benzene, etc.), sends data to the ThingSpeak cloud, and displays live readings with historical graphs on a Bootstrap–Django dashboard.
 
 🚰 Smart Irrigation System  
 Uses soil moisture sensor, DHT11, and ESP32 to automate irrigation with cloud data logging via InfluxDB and Grafana.
+Monitors soil moisture, climate, and crop health.Real-time recommendations for farmers
 
 
 ✋ Automated Sanitizer Dispenser  
@@ -52,7 +63,7 @@ Beginner project for GPIO output testing using Arduino to control LEDs with butt
 
 📬 Let’s Connect
 
-📧 Email: rajramar13@gmail.com  
+📧 Email: mayilraj1314@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/mayilraj13/)
 
 
