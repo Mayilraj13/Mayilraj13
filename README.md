@@ -1,9 +1,9 @@
 👋 Hi there! I'm Mayilraj R
 
-🔌 I’m an aspiring **IoT Developer** passionate about building intelligent embedded systems.  
-📡 I specialize in **sensor integration, microcontroller programming, embedded C, and real-time data communication**.  
-🛠️ Currently exploring **NB-IoT, LoRa, ESP32, Arduino, Raspberry Pi**, and **firmware optimization for edge devices**.  
-🤝 Looking to collaborate on **smart agriculture**, **healthcare IoT**, and **industrial automation** projects.
+🔌 I’m an aspiring IoT & Web Developer passionate about building intelligent embedded systems and interactive web dashboards.
+📡 I specialize in sensor integration, microcontroller programming, real-time data communication, and cloud-based visualization.
+🛠️ Currently exploring NB-IoT, LoRa, ESP32, Arduino, Raspberry Pi, Django web apps, and firmware optimization for edge devices.
+🤝 Looking to collaborate on smart agriculture, healthcare IoT, industrial automation, and IoT-powered web dashboards.
 
 
 
