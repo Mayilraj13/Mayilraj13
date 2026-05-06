@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Mayilraj R 👋</h1>
+<h1 align="center">Hey, I'm Mayilraj R </h1>
 
 <p align="center">
 Full-Stack Engineer · IoT Systems · Targeting Forward Deployed & AI-Adjacent Roles
@@ -63,20 +63,6 @@ Real-time crop health monitoring with farmer-facing recommendations.
 `ESP32` `InfluxDB` `Grafana` `MQTT`
 → [Repo](#)
 
-### 🔥 [Add your iBee Analytics or Hapus project here if not NDA'd]
-`React.js` `Firebase` `PostgreSQL`
-→ [Repo](#)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayilraj13&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayilraj13&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
-</p>
-
----
 
 ## 📬 Let's Connect
 
