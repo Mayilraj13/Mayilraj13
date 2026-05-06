@@ -1,71 +1,87 @@
-👋 Hi there! I'm Mayilraj R
+<h1 align="center">Hey, I'm Mayilraj R 👋</h1>
 
-🔌 I’m an aspiring IoT & Web Developer passionate about building intelligent embedded systems and interactive web dashboards.
-📡 I specialize in sensor integration, microcontroller programming, real-time data communication, and cloud-based visualization.
-🛠️ Currently exploring NB-IoT, LoRa, ESP32, Arduino, Raspberry Pi, Django web apps, and firmware optimization for edge devices.
-🤝 Looking to collaborate on smart agriculture, healthcare IoT, industrial automation, and IoT-powered web dashboards.
+<p align="center">
+Full-Stack Engineer · IoT Systems · Targeting Forward Deployed & AI-Adjacent Roles
+</p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/mayilraj13">LinkedIn</a> ·
+  <a href="mailto:mayilraj1314@gmail.com">Email</a> ·
+  <a href="#">Portfolio</a>
+</p>
 
+---
 
-🛰️ Internet of Things (IoT) & Firmware Development
+## What I Build
 
-> I build IoT systems that connect sensors, process data, and send actionable insights to the cloud or dashboards in real-time.
+I ship full-stack systems that connect real-world data to decisions 
+people can act on — from sensor pipelines to production web apps.
 
+Most developers pick a lane. I've worked across:
+- **Web** — React.js, Django, Firebase, REST APIs, PostgreSQL
+- **Mobile** — Android
+- **IoT/Hardware** — ESP32, Arduino, Raspberry Pi, MQTT, sensor interfacing
+- **Cloud** — Firebase, ThingSpeak, InfluxDB, Grafana
 
-## 🛠️ Skills & Tools
+Currently deepening: **LLM integration · RAG pipelines · Agentic workflows**
 
-**Languages:**  
-`C/C++` `Python`  `HTML` `CSS` `JavaScript`
+---
 
-**IoT Platforms & Tools:**  
-`Arduino` `Raspberry Pi` `ESP32` `ThingSpeak` `MQTT` 'HTTP'
+## 🛠️ Tech Stack
 
-**AI & Computer Vision:**  
-`OpenCV` `YOLOv8` 
+**Frontend**
+`React.js` `JavaScript` `HTML` `CSS` `Bootstrap`
 
-**Databases & Visualization:**  
-`SQLite`
+**Backend**
+`Django` `Python` `REST APIs` `Firebase`
 
-**Web Development:**  
-`Django` `Bootstrap` `REST APIs`
+**Databases**
+`PostgreSQL` `SQLite` `InfluxDB`
 
+**IoT & Hardware**
+`ESP32` `Arduino` `Raspberry Pi` `MQTT` `ThingSpeak` `Grafana`
 
-🧰 Tools & Technologies
+**AI / Vision**
+`OpenCV` `YOLOv8`
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-3C3C3C?style=for-the-badge)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=for-the-badge)
+**Tools**
+`Git` `GitHub` `VS Code`
 
+---
 
+## 📂 Featured Projects
 
-📂 Highlight Projects
+### 🌫️ Air Quality Monitoring System
+Real-time air quality tracking using ESP32 + MQ-135. Measures CO₂, NH₃, 
+Benzene — streams data to ThingSpeak, visualized on a Django + Bootstrap dashboard.
+`ESP32` `Django` `ThingSpeak` `Bootstrap` `REST API`
+→ [Repo](#) | [Live Demo](#)
 
+### 🌱 Smart Irrigation System
+Soil moisture + DHT11 + ESP32 → automated irrigation with InfluxDB + Grafana.
+Real-time crop health monitoring with farmer-facing recommendations.
+`ESP32` `InfluxDB` `Grafana` `MQTT`
+→ [Repo](#)
 
-💡Air Quality Monitoring System
-  IoT-based project for real-time air quality tracking using ESP32 and MQ-135 sensor. The system measures pollutant levels (CO₂, NH₃, Benzene, etc.), sends data to the ThingSpeak cloud, and displays live readings with historical graphs on a Bootstrap–Django dashboard.
+### 🔥 [Add your iBee Analytics or Hapus project here if not NDA'd]
+`React.js` `Firebase` `PostgreSQL`
+→ [Repo](#)
 
-🚰 Smart Irrigation System  
-Uses soil moisture sensor, DHT11, and ESP32 to automate irrigation with cloud data logging via InfluxDB and Grafana.
-Monitors soil moisture, climate, and crop health.Real-time recommendations for farmers
+---
 
+## 📊 GitHub Stats
 
-✋ Automated Sanitizer Dispenser  
-Infrared sensor and Arduino-based contactless sanitizer system for hygiene compliance in public places.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayilraj13&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayilraj13&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
+</p>
 
-💧 Humidity Sensing Using Arduino  
-A simple system to measure and display environmental humidity using a DHT11 sensor and Arduino Uno.
+---
 
-💡 Basic LED Control Program  
-Beginner project for GPIO output testing using Arduino to control LEDs with button or timer inputs.
+## 📬 Let's Connect
 
-📬 Let’s Connect
+If you're building something real and need someone who can ship across 
+the stack — hardware to cloud — let's talk.
 
-📧 Email: mayilraj1314@gmail.com  
+📧 mayilraj1314@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/mayilraj13/)
-
-
-
-
