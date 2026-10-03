@@ -5,8 +5,7 @@ Full-Stack Engineer · IoT Systems · Targeting Forward Deployed & AI-Adjacent R
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayilraj13">LinkedIn</a> ·
-  <a href="mayilraj1314@gmail.com">Email</a> ·
+  <a href="https://linkedin.com/in/mayilraj13">LinkedIn</a> 
   <a href="https://mayilraj1314.vercel.app/">Portfolio</a>
 </p>
 
